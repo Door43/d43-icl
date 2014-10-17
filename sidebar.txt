@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[icl:home|Door43 (icl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-icl|d43-icl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-icl/archive/master.zip|d43-icl.zip]]
+
+**Recent Changes**
+{{changes>ns = icl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/icl|Ethnologue data]]
+
